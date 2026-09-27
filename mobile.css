@@ -1,13 +1,15 @@
-header{
-    display: block;
-}
-
-header nav{
-    display: block;
+header, header nav{
+    
+    flex-flow: column nowrap;
 }
 
 
+header h1{
+    flex-basis: 30px;
+    margin-bottom: 0px;
+}
 
 header nav a{
-    display: block;
+    width: 90vw;
 }
+
