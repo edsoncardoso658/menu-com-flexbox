@@ -23,7 +23,7 @@ main{
     border-radius: 5px;
 }
 
-header div{
+header nav{
     flex-shrink: 0;
     margin-top: 10px;
 }
