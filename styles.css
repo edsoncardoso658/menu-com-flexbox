@@ -1,0 +1,16 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: gray;
+}
+
+header{
+    background-color: lightgray;
+}
+
+main{
+    background-color: white;
+}
