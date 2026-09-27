@@ -1,12 +1,13 @@
 header{
-    display: inline-block;
+    display: block;
 }
+
+header nav{
+    display: block;
+}
+
+
 
 header nav a{
-    display: inline-block;
-}
-
-
-body{
-    background-color: red;
+    display: block;
 }
